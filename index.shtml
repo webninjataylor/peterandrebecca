@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- Set the page to render on iPhones via the screen size instead of 980px -->
+<meta name="viewport" content="initial-scale=1.0, width=device-width" />
+<title>Peter and Rebecca - October 5, 2012</title>
+<link rel="stylesheet" type="text/css" media="screen" href="assets/main.css" />
+</head>
+<body>
+<div id="wrapper">
+  <div id="content">
+    <h1>Section Title</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In aliquet turpis et ligula laoreet non volutpat purus dignissim. Nunc at enim et orci porta dignissim. Proin volutpat elit eu risus imperdiet in volutpat nisi cursus. Suspendisse potenti. Morbi vestibulum lacus eget est condimentum venenatis. Pellentesque in mauris orci. Morbi at elit eget arcu accumsan sagittis eu vitae tellus. Mauris tempor, magna at tincidunt fringilla, est mi rhoncus odio, in auctor magna ipsum sit amet nibh. Nulla commodo augue eget sem vulputate pulvinar. Etiam quam sem, sodales eget ullamcorper sed, ultricies vitae urna. Vestibulum varius rutrum sem, a tincidunt odio pulvinar eu. Phasellus pulvinar faucibus leo. Sed nisi mauris, suscipit nec fermentum eu, gravida quis dolor.</p>
+  </div>
+</div>
+<div id="menuwrapper">
+	<!--#include virtual="assets/menu.html"-->
+</div>
+<script language="javascript" src="assets/jquery-1.4.2.min.js"></script>
+<script language="javascript" src="assets/main.js"></script>
+<script language="javascript">
+	wnt.pagename = 'welcome';
+</script>
+</body>
+</html>
